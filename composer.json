@@ -1,0 +1,17 @@
+{
+  "name": "brooke1220/webman-like",
+  "type": "library",
+  "license": "MIT",
+  "description": "Webman plugin brooke1220/webman-like",
+  "require": {
+    "wen-gg/webman-migrations": "^1.0",
+    "illuminate/database": "^8.83",
+    "illuminate/events": "^8.83",
+    "webman/event": "^1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Brooke1220\\WebmanLike\\": "src"
+    }
+  }
+}
